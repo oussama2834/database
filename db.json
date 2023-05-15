@@ -6,35 +6,32 @@
     "phone": "53116743",
     "email": "tasnime@gmail.com",
     "relation": "mother",
-    "doctor": [
-      { "id": 1, "name": "anissa", "speciality": { "id": 1, "name": "dermatologue", "medicalCenter": { "id": 1, "name": "tunis"} } }
-    ],
+    "doctor": 
+      { "id": 1, "name": "anissa", "speciality": { "id": 1, "name": "dermatologue", "medicalCenter": { "id": 1, "name": "tunis"} } },
     "user": { "id": 52 }
   }
 
   {
-    "id": 1,
+    "id": 2,
     "creationDate": "14/02/2012",
     "name":"tasnime" ,
     "heure":"10.00" ,
     "phone": "53116743",
     "email": "tasnime@gmail.com",
     "relation": "mother",
-    "doctor": [
-      { "id": 1, "name": "anissa", "speciality": { "id": 1, "name": "dermatologue", "medicalCenter": { "id": 1, "name": "tunis"} } }
-    ],
+    "doctor": 
+      { "id": 1, "name": "anissa", "speciality": { "id": 1, "name": "dermatologue", "medicalCenter": { "id": 1, "name": "tunis"} } },
     "user": { "id": 52 }
   }
   {
-    "id": 1,
+    "id": 3,
     "creationDate": "14/02/2012",
     "name":"tasnime" ,
     "heure":"10.00" ,
     "phone": "53116743",
     "email": "tasnime@gmail.com",
     "relation": "mother",
-    "doctor": [
-      { "id": 1, "name": "anissa", "speciality": { "id": 1, "name": "dermatologue", "medicalCenter": { "id": 1, "name": "tunis"} } }
-    ],
+    "doctor": 
+      { "id": 1, "name": "anissa", "speciality": { "id": 1, "name": "dermatologue", "medicalCenter": { "id": 1, "name": "tunis"} } },
     "user": { "id": 52 }
   }
